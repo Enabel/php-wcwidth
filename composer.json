@@ -16,7 +16,7 @@
       "AlecRabbit\\Helpers\\": "src\\Helpers"
     },
     "files": [
-      "src\\bootstrap.php"
+      "src/bootstrap.php"
     ]
   },
   "autoload-dev": {
